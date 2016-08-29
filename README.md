@@ -1,1 +1,1 @@
-# Vitashell_Template
+# Thème pour VitaShell (PS Vita)
